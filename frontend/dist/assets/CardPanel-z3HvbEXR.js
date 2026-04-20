@@ -1,0 +1,1 @@
+import{j as o}from"./state-Frrvuv-w.js";import{c as p}from"./index-Db_SERDM.js";const m=({className:s,children:a})=>o.jsx("section",{className:p("glass-panel rounded-[28px] p-5 sm:p-6",s),children:a});export{m as C};
